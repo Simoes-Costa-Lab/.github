@@ -12,8 +12,8 @@ This GitHub organization hosts the computational resources used in the lab, incl
 
 ## Main Repositories
 
-- **core-pipeline** – shared pipelines and scripts used across projects  
-- **template-project** – template for organizing new computational analyses  
+- [core-pipeline](https://github.com/Simoes-Costa-Lab/core-pipelines) – shared pipelines and scripts used across projects  
+- [template-project](https://github.com/Simoes-Costa-Lab/template-project) – template for organizing new computational analyses  
 - **legacy-repositories** – archived workflows retained for reproducibility
 
 ## More Information
