@@ -14,7 +14,7 @@ This GitHub organization hosts the computational resources used in the lab, incl
 
 - **core-pipeline** – shared pipelines and scripts used across projects  
 - **template-project** – template for organizing new computational analyses  
-- **legacy-* repositories** – archived workflows retained for reproducibility
+- **legacy-repositories** – archived workflows retained for reproducibility
 
 ## More Information
 
